@@ -103,5 +103,5 @@ This project is licensed under the **MIT License**.
 ## Contact
 - 📧 Email: arisculala@gmail.com
 - 🐙 GitHub: [arisculala](https://github.com/arisculala "Visit MyGithub")
-Enjoy using **Project Service**! 🚀 If you have any questions, feel free to reach out. 😊
+- Enjoy using **Project Service**! 🚀 If you have any questions, feel free to reach out. 😊
 
