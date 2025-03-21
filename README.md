@@ -5,10 +5,10 @@ A brief description of the project (e.g., an AI-powered text processing applicat
 - [Introduction](#introduction)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [Setup & Installation](#setupinstallation)
-- [Running the Application](#runningtheapplication)
-- [API Documentation](#apidocumentation)
-- [Future Enhancements](#futureenhancements)
+- [Setup & Installation](#setup-and-installation)
+- [Running the Application](#running-the-application)
+- [API Documentation](#api-documentation)
+- [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -25,7 +25,7 @@ Make sure you have the following installed:
 - Docker
 
 
-## Setup & Installation
+## Setup and Installation
 **1. Clone the Repository**
 ```bash
 git clone https://github.com/your-username/project.git
@@ -83,7 +83,7 @@ docker run -p 8080:8080 project_name
   ```
 
 
-## 🏗 Future Enhancements
+## Future Enhancements
 - Feature 1: description
 
 
@@ -96,7 +96,7 @@ To contribute:
 - Create a pull Request
 
 
-## 📄 License
+## License
 This project is licensed under the **MIT License**.
 
 
