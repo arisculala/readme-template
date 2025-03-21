@@ -14,6 +14,10 @@ A brief description of the project (e.g., an AI-powered text processing applicat
 - [Contact](#contact)
 
 
+## Introduction
+- Brief introduction
+
+
 ## Features
 - Feature 1 – Short description (Example: "Multi-AI provider support for text embeddings")
 
